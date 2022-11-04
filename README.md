@@ -1,6 +1,8 @@
 # FCT
 This repo contains the official PyTorch implementation for the CVPR 2022 Oral paper: 'Few-Shot Object Detection with Fully Cross-Transformer' ([paper](https://arxiv.org/abs/2203.15021)).
 
+【腾讯文档】FCT实验结果记录
+https://docs.qq.com/sheet/DT0VxWkNaYUlBZE5q?tab=BB08J2
 <div align="center"><img src="assets/figure_1.png" width="600"></div>
 
 ## Highlights
